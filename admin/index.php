@@ -7,7 +7,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>澜山网站建设</title>
+	<title>网站建设</title>
 </head>
 <link rel="stylesheet" type="text/css" href="./src/AmazeUI-2.7.2/assets/css/amazeui.css">
 <link rel="stylesheet" type="text/css" href="./src/AmazeUI-2.7.2/assets/css/admin.css">
